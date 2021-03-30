@@ -2,7 +2,8 @@
 A model which predicts the survival of the passengers in Titanic. Random Forest clasifier has been used to achieve this. 
 
 Below are the steps that are covered in this Machine Learning project walkthrough:
-Importing the Data
+
+1.Importing the Data
 Data Visualization
 Data Cleaning and Transformation
 Encoding the Data
